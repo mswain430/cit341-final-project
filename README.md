@@ -1,15 +1,13 @@
 # CSE 341 Team Project
 ## CSE 341 Final project Proposal -grocery_store
+## Contributors
+Ryan Alvord, Peace Andrew Arikpo, Sheyla Norton, Millie Swain, John Day
+## Application Info
 - JavaScript
 - Node.js
 - Express
 - MongoDb
 - Render
-
-## Contributors
-Ryan Alvord, Peace Andrew Arikpo, Sheyla Norton, Millie Swain, John Day
-
-# Application Info
 ## What will the API do?
 Our API will be an inventory tracker/information hub/employee list as employees will be able to view/update/add/delete inventory of the stores departments (Deli, Bakery, and Produce) There will also be a catalog of all employees with their personal information and work contact information.
 ## How will your API utilize a login system?
