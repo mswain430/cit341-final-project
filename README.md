@@ -1,5 +1,8 @@
-### CSE 341 Team Project
-# CSE 341 Final project Proposal -grocery_store
+# CSE 341 Team Project
+## CSE 341 Final project Proposal -grocery_store
+- JavaScript
+- Node.js
+- Express
 
 ## Contributors
 Ryan Alvord, Peace Andrew Arikpo, Sheyla Norton, Millie Swain, John Day
