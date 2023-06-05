@@ -3,6 +3,8 @@
 - JavaScript
 - Node.js
 - Express
+- MongoDb
+- Render
 
 ## Contributors
 Ryan Alvord, Peace Andrew Arikpo, Sheyla Norton, Millie Swain, John Day
